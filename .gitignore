@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+qa/
+.env
+.env.*
+!.env.example
+.vs/
+*.vsidx
+*.suo
+*.user

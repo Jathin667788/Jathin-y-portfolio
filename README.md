@@ -1,4 +1,4 @@
-# Jathin Y - Azure Backend & Integration Engineer Portfolio
+# Portfolio Page
 
 Production-grade personal portfolio website built with React, Vite, TypeScript, Tailwind CSS, Framer Motion, and Lucide React icons.
 
